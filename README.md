@@ -1,6 +1,6 @@
 # My First Repository
 
-## Favorite Series / Movie
+## My Favorite Series / Movie
 **Series:** Breaking Bad  
 **Movie:** Inception  
 
